@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'SyNeNextResponder'
-s.version          = '0.1.0'
+s.version          = '0.1.1'
 s.summary          = 'SyNeNextResponder makes ease of tabbing between a collection of UIResponders.'
 
 # This description is used to generate tags and improve search results.
